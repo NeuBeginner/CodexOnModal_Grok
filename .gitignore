@@ -1,0 +1,8 @@
+root_password.txt
+ssh_password.txt
+connection.txt
+keepalive_state.json
+__pycache__/
+*.pyc
+.env
+.venv/
